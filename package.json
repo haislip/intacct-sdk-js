@@ -1,6 +1,6 @@
 {
-  "name": "@intacct/intacct-sdk",
-  "version": "2.1.1",
+  "name": "@ghaislip/intacct-sdk",
+  "version": "2.1.2",
   "description": "Sage Intacct SDK for JavaScript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
